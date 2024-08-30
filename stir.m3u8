@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Stirr/all.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml"
 #EXTINF:-1 channel-id="Stirr-5442" tvg-id="5442" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711050143xj230eD6gK-512x512-square.png" group-title="Comedy Live" tvg-chno="100",Always Funny
 https://jmp2.uk/str-5442.m3u8
 #EXTINF:-1 channel-id="Stirr-5430" tvg-id="5430" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/07/1709832676KjRR7jMuCJ-512x512-square.png" group-title="Entertainment Live" tvg-chno="110",RightNow TV
